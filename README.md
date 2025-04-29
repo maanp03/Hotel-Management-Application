@@ -1,4 +1,4 @@
-# 🏨 Hotel Management Application
+# 🏨 HotelStaff Management
 A web-based system designed to help hotel chain managers manage and assign staff across multiple hotels.
 
 ## ✨ Features
